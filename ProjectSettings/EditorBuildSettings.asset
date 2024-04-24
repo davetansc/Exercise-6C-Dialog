@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/rpgpp_lt_scene_1.0.unity
     guid: d2809ab9b90eea7419d8d90d4c505d35
+  - enabled: 1
+    path: Assets/Scenes/Another.unity
+    guid: 106831d0bb5c9436cad8f1f307bf5219
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}
