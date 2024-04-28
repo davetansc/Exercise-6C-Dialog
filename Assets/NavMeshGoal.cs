@@ -13,11 +13,7 @@ public class NavMeshGoal : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         agent.destination = goal.position;
 
-        void Update()
-        {
-            agent.destination = goal.position;
-
-        }
+        
     }
 
     // Update is called once per frame
